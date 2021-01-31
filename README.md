@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello there! 
+## Im Anthony :)
+## Full Stack Developer
+<ul>
+  <li> Check out my MERN stack app: http://keesydrivingschool.herokuapp.com/
+  <li> Currently Learning: C#
+<ul>
+  <hr></hr>
+    Tech Stack:
+   <hr></hr>
+   <p>
+  <a href="https://github.com/Anthonywilde1/github-readme-stats"></a>
+   </p>
+   <p>
+  <a href="https://github.com/Anthonywilde1"></a>
+</p>
+   
 
 <!--
 **Anthonywilde1/Anthonywilde1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
