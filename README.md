@@ -22,8 +22,8 @@
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" style="padding:5px; width: 40px;" >
 <img width="40px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" style="padding:5px; width: 40px;" >
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" style="padding:5px; width: 40px;" >
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original.svg" alt="rails" style="padding:5px; width: 40px;" >
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresq/postgresql-original.svg" alt="postgresql" style="padding:5px; width: 40px;" >
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" style="padding:5px; width: 40px;" >
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" style="padding:5px; width: 40px;" >
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" style="padding:5px; width: 40px;" >
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" style="padding:5px; width: 40px;" >
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="padding:5px; width: 40px;" >
