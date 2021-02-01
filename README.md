@@ -30,7 +30,7 @@
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" style="padding:5px; width: 40px;">
     
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" style="padding:5px; width: 40px;" >
-<img width="40px"  src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" alt="css" style="padding:5px; width: 40px;" >
+<img width="40px"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" style="padding:5px; width: 40px;" >
 <img width="40px"  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" style="padding:5px; width: 40px;" >
 
 </div>
